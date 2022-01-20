@@ -1,0 +1,36 @@
+Homework: Introducción a Javascript
+
+    Conceptos:
+
+        VARIABLES:
+            Es una forma de guardar un valor que
+            usaremos mas adelante; la misma se puede
+            crear con las palabras claves var, let, 
+            const, o simplemente poniendo el nombre 
+            de la variable seguido de un = y el valor
+            que se le desea asignar.
+        
+        STRINGS:
+            Es un tipo de dato que se define entre 
+            comillas, osea siempre que este entre comillas
+            ya sea numeros, simbolos, o texto, sera tratado
+            como un bloque.
+
+        FUNCIONES (argumentos, return):
+            Las funciones son objetos particulres que
+            sirven para invocar algo (pueden ser 
+            variables u otras funciones) que pueden
+            ser transformado o no para hacer algo con
+            aquello que he invocado.
+            Dentro de una función tenemos los argumentos
+            que serán transformados por la funcion y los mismos
+            serán puesto entre parentesis.
+            Tambien tenemos las declaraciones como
+            por ejemplo 'return' que devuelve el resultado de
+            haber transformado los argumentos con la función.
+        
+        DECLARACIONES if:
+            Es un operador de control de flujo que verifica
+            si una función es verdadera o falsa, y ejecuta
+            el código en caso de ser verdadero o sigue avanzando
+            si no lo es.
