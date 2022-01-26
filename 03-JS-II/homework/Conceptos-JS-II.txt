@@ -1,0 +1,27 @@
+HOMEWORK: JAVASCRIPT II
+
+CONCEPTOS:
+
+    for:
+        Es uno de los dos tipo de bucles que existen en 
+        JS cuyos argumentos son tres, una variables desde
+        la cual comienza a ejecutarce el bucle, una 
+        condición la cual indica que se ejecute el bucle
+        mientras esta de true y deje de ejecutarse cuando
+        de false, y una funcion que ira modificando la
+        variable hasta que la condición dé false.
+    
+    &&:
+        El operador lógico && (and) devolverá true siempre que
+        ambos argumentos sean true, y devolverá false si
+        uno de ellos es false.
+
+    ||:
+        El operador lógico || (or) devolverá true si
+        uno de los argumentos es true, y devolvera
+        false si ambos argumentos son false.
+
+    !:
+        El operador lógico ! (not) devolverá true si
+        el argumento es false, y devolverá false si
+        el argumento es true.
