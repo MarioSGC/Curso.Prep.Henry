@@ -1,0 +1,4 @@
+CONCEPTOS JSIII
+
+Arrays:
+        Son como matrices en las que podemos almacenar datos, quitarlos, ver alguno especifico, etc.
